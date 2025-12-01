@@ -22,7 +22,8 @@ Facebook.com —-------> ISP (checks the internet connection)---------> Optical 
 
 #### 3. Difference between web servers and application servers - 
 
-1. How a web server works
+1. How a web server works -
+   
 A web server is technology that hosts a website’s code and data. When you enter a URL in your browser, the URL is actually the address identifier of the web server.
 
 Your browser and web server communicate as follows:
