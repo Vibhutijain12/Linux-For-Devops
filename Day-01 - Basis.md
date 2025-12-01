@@ -22,7 +22,7 @@ Facebook.com —-------> ISP (checks the internet connection)---------> Optical 
 
 #### 3. Difference between web servers and application servers - 
 
-1. How a web server works -
+#### 1. How a web server works -
    
 A web server is technology that hosts a website’s code and data. When you enter a URL in your browser, the URL is actually the address identifier of the web server.
 
@@ -40,7 +40,7 @@ e. The browser then displays the information to you.
 
 A website that hosts static content like blogs, header images, or articles can run on a web server. However, most websites and web applications are much more interactive and require an application server.
 
-2. How an application server works -
+#### 2. How an application server works -
 
 An application server extends the capabilities of a web server by supporting dynamic content generation, application logic, and integration with various resources.
 
@@ -78,7 +78,7 @@ If you want to connect data stored applications, then it requires a database ser
 
 Application maintenance is the continuous process of updating, modifying, and re-assessing the existing software application in order to make it bug-free or improve performance. Application maintenance must be a constant task that ensures the application is running smoothly without any errors.
 
-###### Application Support - 
+#### Application Support - 
 Application support usually offers technical support and human support. Technical support relates to the maintenance of the app, software and other organisations' technological systems. Human support relates to helping the end-user understand how to use the application or system and help solve any issues.
 
 
