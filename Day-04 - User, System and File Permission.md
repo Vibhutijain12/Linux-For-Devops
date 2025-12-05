@@ -40,8 +40,7 @@ Here are some basic and most commonly used Linux commands in a simple format:
 | cat /etc/groups            | system file that stores group information.          | 
 | cat /etc/passwd            | system file that stores user account information.    |   
 | gpasswd -a <username> <groupname>  | Adds a user to a group.                   | 
-| gpasswd -M <USER1><USER2><USER3> <groupname> | Sets (replaces) the entire list of group members.
-| 
+| gpasswd -M <USER1><USER2><USER3> <groupname> | Sets (replaces) the entire list of group members.  | 
 
 #### 3. File permission commands: 
 
