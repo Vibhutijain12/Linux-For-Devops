@@ -34,7 +34,7 @@ Combines ping + traceroute into real-time network path monitoring.
 mtr google.com
 ```
 
-####6️⃣ nslookup
+#### 6️⃣ nslookup
 DNS lookup tool – queries domain → IP mapping and vice-versa.
 ```
 nslookup google.com
