@@ -62,7 +62,7 @@ A stream editor used to modify text using patterns—commonly for search/replace
 | How to provide exit status for your sed command?                                    | sed ‘/India/ q 100’ file_name                                                                                                                                    | sed ‘/India/ q 100’ file_name                  |
 | How to execute external command line date in your expression?                       | sed '2 e date' file_name                                                                                                                                         | sed '2 e date' file_name                       |
 |
-| How to see the line number in file?                                                 | sed '=' file_name                                                                                                                                                | sed '=' file_name                              |
+| How to see the line number in file?                                       | sed '=' file_name                                                                                                                                                          | sed '=' file_name                              |
 |                                                                                     | sed -n -e '/TEST/=' app.txt                                                                                                                                      | sed -n -e '/TEST/=' app.txt                    |
 
 #### 3. awk
